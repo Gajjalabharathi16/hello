@@ -17,7 +17,11 @@ int main()
 	printf("even set bits: %d\n",count);
 	printf("raju");
 	printf"ravi");
+<<<<<<< Updated upstream
 	printf("bharathi");
+=======
+	printf("imran bro");
+>>>>>>> Stashed changes
 
 	odd=num&0xAAAAAAAA;
 	while(odd>0)
