@@ -15,6 +15,7 @@ int main()
 		even=even>>1;
 	}
 	printf("even set bits: %d\n",count);
+	printf("raju");
 
 	odd=num&0xAAAAAAAA;
 	while(odd>0)
